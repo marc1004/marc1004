@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marc1004
-- 👀 I’m interested in low-level machine programming
-- 🌱 I’m currently learning XCode, Franeworks for low-level programming
-- 💞️ I’m looking to collaborate on Keyboard/Controller-Drivers
+- 👀 I’m interested in devops and lowlevel communication programming
+- 🌱 I'm using ansible + python on a few commercial projects in real-life
+- 💞️ I’m looking forward to collaborate on any devops topic
 - 📫 Reach me via EMAil or Mobil#
 
 <!---
